@@ -8,17 +8,14 @@ Study Buddy is an individualized platform designed specifically for students. In
 -	Smart categorization by subject/project 
 - Built in quiz engine, generating questions from JSON
 - Built in Grade Calculator
-- Notes taking feature
-
 
 ## How to run program:
-1. Make sure to have python and javascript installed
-2. Download the file StudyFlow.py
-3. Open terminal/command prompt
-4. Run the program by pressing F5 or run
-5. Follow the on-screen instructions depending on the purpose
+1. Make sure you have FLASK downloaded in your terminal
+2. Download the folder StudyBuddy.zip and unzip the folder.
+3. Open the command prompt
+4. Run the program by copy pasting the given link
 
-## Example output
+# Example output
 # Task overview-
 1. Add New Task: Linear equations
 2. Enter subject: Algebra
@@ -27,6 +24,11 @@ Study Buddy is an individualized platform designed specifically for students. In
 5. Do you want to view your tasks (Yes/No): Yes
 ## displays current tasks
 ## the process repeats
+
+## Option for delete task
+1. Click the Delete task button
+2. A pop up saying "Are you sure you wanna delete this task?" (Yes/Np): Yes
+##The Proccess repeats
 
 # Quiz Generator
  1. enter subject:
@@ -38,14 +40,15 @@ Study Buddy is an individualized platform designed specifically for students. In
 ## the proccess repeats
 
 # Grade Calculator
-  1. Enter how many subjects: 
-  2. Enter subject/s: 
-  3. Enter how many activities: 
+  1. Enter subject/s: 
+  2. Enter activity/s: 
   3. enter weight of activities:
   4. enter max score:
   5. enter score:
   6. calculate tentative grade:
-  7. do you want to start over (Yes/No): No
+  7. do you want to add another activity? (Yes/No): Yes
+  8. Enter subject/s
+## the proccess repeats
 
 ## Contributers
 -Marquez, Wynstelle Z. (Tasks overview)
