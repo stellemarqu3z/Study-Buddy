@@ -5,7 +5,6 @@ Study Buddy is an individualized platform designed specifically for students. In
 
 ## Features:
 -	One-tap task creation
--	Smart categorization by subject/project 
 - Built in quiz engine, generating questions from JSON
 - Built in Grade Calculator
 
@@ -51,6 +50,8 @@ Study Buddy is an individualized platform designed specifically for students. In
 ## the proccess repeats
 
 ## Contributers
--Marquez, Wynstelle Z. (Tasks overview)
--Duroy, Gaylhynne P. (Quiz generator)
--Costo, Zavier and Morga, Glenn (Grade Calculator)
+-Marquez, Wynstelle Z. 
+-Duroy, Gaylhynne P.
+-Costo, Zavier
+-Morga, Glenn
+
