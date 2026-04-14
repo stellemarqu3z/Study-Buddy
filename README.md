@@ -1,5 +1,5 @@
 # STUDY BUDDY
-PW #2 MARQUEZ_DUROY_MORGA_COSTO
+FINAL PW MARQUEZ_DUROY_MORGA_COSTO
 ## Project descrption:
 Study Buddy is an individualized platform designed specifically for students. In one app, you can take note of deadlines, grades, comply tasks, and create quizzess. All in one app!
 
